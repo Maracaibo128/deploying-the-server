@@ -4,7 +4,7 @@
   "engines": {
     "node": "12.13.0"
   },
-  "description": "",
+  "description": "This is a simple server i created to practice backend deploymnent!",
   "main": "server.js",
   "scripts": {
     "start": "node server",
